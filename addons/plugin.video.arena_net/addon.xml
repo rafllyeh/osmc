@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.arena" version="0.0.1" name="Arena" provider-name="rafllyeh">
+	<requires></requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Arenatulus</summary>
+		<description>Seriale i filmy</description>
+		<platform>all</platform>
+	</extension>
+</addon>
